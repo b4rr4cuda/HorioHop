@@ -53,7 +53,7 @@ The code in this project was built with the help of AI technologies, namely Curs
    └── nicosia/
    ```
 
-5. Create a file `config.yml` in the `motis-cyprus` folder with the following contents:
+5. Create a file `config.yml` in the `motis-cyprus` folder with the following contents, changing the file names where necessary:
    ```yaml
    server:
      host: 0.0.0.0
