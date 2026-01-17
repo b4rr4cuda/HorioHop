@@ -1,0 +1,52 @@
+{
+  "taxis": [
+    {
+      "name": "Troodos Mountain Taxi",
+      "phone": "+357 99 123 456"
+    },
+    {
+      "name": "Kakopetria Cars",
+      "phone": "+357 99 234 567",
+      "notes": "Wheelchair accessible"
+    },
+    {
+      "name": "Omodos Village Taxi",
+      "phone": "+357 99 345 678"
+    },
+    {
+      "name": "Platres Transfers",
+      "phone": "+357 99 456 789"
+    },
+    {
+      "name": "Lefkara Taxi Service",
+      "phone": "+357 99 567 890"
+    },
+    {
+      "name": "Agros Mountain Cars",
+      "phone": "+357 99 678 901"
+    }
+  ],
+  "tours": [
+    {
+      "name": "Cyprus Village Tours",
+      "price": "from €45",
+      "description": "Daytrips from Limassol/Nicosia"
+    },
+    {
+      "name": "Mountain Explorer CY",
+      "price": "from €55",
+      "description": "Private tours"
+    },
+    {
+      "name": "Wine Routes Cyprus",
+      "price": "from €65",
+      "description": "Includes tastings"
+    },
+    {
+      "name": "Troodos Experience",
+      "price": "from €50",
+      "description": "Hiking and culture"
+    }
+  ]
+}
+

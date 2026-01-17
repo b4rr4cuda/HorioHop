@@ -1,0 +1,428 @@
+[
+  {
+    "id": "kakopetria",
+    "nameEn": "Kakopetria",
+    "nameEl": "Κακοπετριά",
+    "lat": 34.9833,
+    "lng": 32.9167,
+    "district": "Nicosia",
+    "population": 1200,
+    "description": "A charming mountain village known for its old quarter with traditional stone houses and historic watermills. The village sits along the Karkotis River, offering scenic walks and authentic Cypriot architecture.",
+    "attractions": ["Old Village Quarter", "Watermills", "Karkotis River", "Traditional Architecture"],
+    "nearestHub": null,
+    "hubDistanceKm": null,
+    "taxiContacts": [
+      {"name": "Kakopetria Cars", "phone": "+357 99 234 567", "notes": "Wheelchair accessible"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "omodos",
+    "nameEn": "Omodos",
+    "nameEl": "Όμοδος",
+    "lat": 34.8425,
+    "lng": 32.8039,
+    "district": "Limassol",
+    "population": 300,
+    "description": "Famous for its historic Timios Stavros (Holy Cross) monastery and excellent local wines. The village square is a popular destination with traditional tavernas and wine cellars.",
+    "attractions": ["Timios Stavros Monastery", "Wine Cellars", "Village Square", "Traditional Tavernas"],
+    "nearestHub": "Troodos Square",
+    "hubDistanceKm": 12,
+    "taxiContacts": [
+      {"name": "Omodos Village Taxi", "phone": "+357 99 345 678"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "fikardou",
+    "nameEn": "Fikardou",
+    "nameEl": "Φυκάρδου",
+    "lat": 34.9567,
+    "lng": 33.1283,
+    "district": "Nicosia",
+    "population": 3,
+    "description": "A UNESCO World Heritage site, this preserved traditional village showcases authentic 18th-century architecture. The village is essentially a living museum of rural Cypriot life.",
+    "attractions": ["UNESCO Heritage Site", "18th Century Architecture", "Living Museum", "Traditional Houses"],
+    "nearestHub": "Nicosia",
+    "hubDistanceKm": 45,
+    "taxiContacts": [
+      {"name": "Troodos Mountain Taxi", "phone": "+357 99 123 456"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "platres",
+    "nameEn": "Platres",
+    "nameEl": "Πλάτρες",
+    "lat": 34.8892,
+    "lng": 32.8642,
+    "district": "Limassol",
+    "population": 800,
+    "description": "A historic mountain retreat known for its cool climate and elegant architecture. Popular for hiking trails and as a summer escape from the coastal heat.",
+    "attractions": ["Historic Architecture", "Hiking Trails", "Cool Mountain Climate", "Caledonia Falls"],
+    "nearestHub": null,
+    "hubDistanceKm": null,
+    "taxiContacts": [
+      {"name": "Platres Transfers", "phone": "+357 99 456 789"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "agros",
+    "nameEn": "Agros",
+    "nameEl": "Αγρός",
+    "lat": 34.9167,
+    "lng": 33.0167,
+    "district": "Limassol",
+    "population": 900,
+    "description": "Famous for its rose products and traditional soutzoukos (grape must with almonds). The village hosts an annual rose festival and produces high-quality rose water and preserves.",
+    "attractions": ["Rose Products", "Soutzoukos", "Rose Festival", "Traditional Preserves"],
+    "nearestHub": "Kakopetria",
+    "hubDistanceKm": 18,
+    "taxiContacts": [
+      {"name": "Agros Mountain Cars", "phone": "+357 99 678 901"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "lefkara",
+    "nameEn": "Lefkara",
+    "nameEl": "Λεύκαρα",
+    "lat": 34.8656,
+    "lng": 33.3056,
+    "district": "Larnaca",
+    "population": 850,
+    "description": "World-renowned for its intricate lacework (lefkaritika) and traditional silverwork. The village has a rich craft tradition dating back centuries, with many shops selling authentic handmade items.",
+    "attractions": ["Lefkaritika Lace", "Silverwork", "Traditional Crafts", "Historic Architecture"],
+    "nearestHub": null,
+    "hubDistanceKm": null,
+    "taxiContacts": [
+      {"name": "Lefkara Taxi Service", "phone": "+357 99 567 890"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "pedoulas",
+    "nameEn": "Pedoulas",
+    "nameEl": "Πεδουλάς",
+    "lat": 34.9639,
+    "lng": 32.8306,
+    "district": "Nicosia",
+    "population": 400,
+    "description": "Known for its cherry orchards and the beautiful Byzantine church of Archangelos Michael with stunning frescoes. The village celebrates cherry season with festivals.",
+    "attractions": ["Cherry Orchards", "Archangelos Michael Church", "Byzantine Frescoes", "Cherry Festival"],
+    "nearestHub": null,
+    "hubDistanceKm": null,
+    "taxiContacts": [
+      {"name": "Troodos Mountain Taxi", "phone": "+357 99 123 456"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "kalopanayiotis",
+    "nameEn": "Kalopanayiotis",
+    "nameEl": "Καλοπαναγιώτης",
+    "lat": 34.9897,
+    "lng": 32.8283,
+    "district": "Nicosia",
+    "population": 300,
+    "description": "Home to the UNESCO-listed Agios Ioannis Lampadistis monastery with exceptional Byzantine frescoes. The village is set in a beautiful valley with natural springs.",
+    "attractions": ["Agios Ioannis Lampadistis Monastery", "UNESCO Site", "Byzantine Frescoes", "Natural Springs"],
+    "nearestHub": "Pedoulas",
+    "hubDistanceKm": 3,
+    "taxiContacts": [
+      {"name": "Troodos Mountain Taxi", "phone": "+357 99 123 456"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "lofou",
+    "nameEn": "Lofou",
+    "nameEl": "Λόφου",
+    "lat": 34.8333,
+    "lng": 32.8000,
+    "district": "Limassol",
+    "population": 100,
+    "description": "A beautifully restored stone village with traditional architecture. The village has been carefully preserved and offers a glimpse into traditional Cypriot village life.",
+    "attractions": ["Restored Stone Architecture", "Traditional Village Life", "Historic Buildings"],
+    "nearestHub": "Omodos",
+    "hubDistanceKm": 8,
+    "taxiContacts": [
+      {"name": "Omodos Village Taxi", "phone": "+357 99 345 678"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "vouni",
+    "nameEn": "Vouni",
+    "nameEl": "Βουνί",
+    "lat": 34.8500,
+    "lng": 32.7833,
+    "district": "Limassol",
+    "population": 150,
+    "description": "A charming wine village on the wine route, known for its vineyards and traditional winemaking. The village offers wine tastings and scenic views of the surrounding countryside.",
+    "attractions": ["Wine Route", "Vineyards", "Wine Tastings", "Scenic Views"],
+    "nearestHub": "Omodos",
+    "hubDistanceKm": 6,
+    "taxiContacts": [
+      {"name": "Omodos Village Taxi", "phone": "+357 99 345 678"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "arsos",
+    "nameEn": "Arsos",
+    "nameEl": "Άρσος",
+    "lat": 34.8417,
+    "lng": 32.7667,
+    "district": "Limassol",
+    "population": 250,
+    "description": "Part of the famous wine route, this village is surrounded by vineyards and offers authentic wine experiences. Traditional stone houses line the narrow streets.",
+    "attractions": ["Wine Route", "Vineyards", "Traditional Stone Houses", "Wine Experiences"],
+    "nearestHub": "Omodos",
+    "hubDistanceKm": 10,
+    "taxiContacts": [
+      {"name": "Omodos Village Taxi", "phone": "+357 99 345 678"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "vasa-kilaniou",
+    "nameEn": "Vasa Kilaniou",
+    "nameEl": "Βάσα Κοιλανίου",
+    "lat": 34.8250,
+    "lng": 32.8000,
+    "district": "Limassol",
+    "population": 200,
+    "description": "The origin of Commandaria wine, one of the world's oldest named wines. The village has a rich winemaking history and offers tours of traditional wine cellars.",
+    "attractions": ["Commandaria Wine Origin", "Wine Cellars", "Winemaking History", "Wine Tours"],
+    "nearestHub": "Omodos",
+    "hubDistanceKm": 9,
+    "taxiContacts": [
+      {"name": "Omodos Village Taxi", "phone": "+357 99 345 678"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "silikou",
+    "nameEn": "Silikou",
+    "nameEl": "Σιλίκου",
+    "lat": 34.8083,
+    "lng": 32.8333,
+    "district": "Limassol",
+    "population": 150,
+    "description": "Home to a fascinating carob museum showcasing the history of carob production, once a major Cypriot export. The village has traditional architecture and peaceful atmosphere.",
+    "attractions": ["Carob Museum", "Traditional Architecture", "Carob Production History"],
+    "nearestHub": "Limassol",
+    "hubDistanceKm": 25,
+    "taxiContacts": [
+      {"name": "Omodos Village Taxi", "phone": "+357 99 345 678"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "laneia",
+    "nameEn": "Laneia",
+    "nameEl": "Λάνεια",
+    "lat": 34.8500,
+    "lng": 32.8167,
+    "district": "Limassol",
+    "population": 350,
+    "description": "Known for its art galleries and pottery workshops. The village has become a cultural hub with many artists and craftspeople creating traditional and contemporary works.",
+    "attractions": ["Art Galleries", "Pottery Workshops", "Cultural Hub", "Artist Studios"],
+    "nearestHub": "Omodos",
+    "hubDistanceKm": 7,
+    "taxiContacts": [
+      {"name": "Omodos Village Taxi", "phone": "+357 99 345 678"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "trimiklini",
+    "nameEn": "Trimiklini",
+    "nameEl": "Τριμίκλινη",
+    "lat": 34.8500,
+    "lng": 32.9333,
+    "district": "Limassol",
+    "population": 600,
+    "description": "A gateway village to the Troodos mountains, offering easy access to hiking trails and mountain activities. The village has good amenities and serves as a base for mountain exploration.",
+    "attractions": ["Gateway to Troodos", "Hiking Trails", "Mountain Activities", "Base for Exploration"],
+    "nearestHub": null,
+    "hubDistanceKm": null,
+    "taxiContacts": [
+      {"name": "Platres Transfers", "phone": "+357 99 456 789"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "kyperounta",
+    "nameEn": "Kyperounta",
+    "nameEl": "Κυπερούντα",
+    "lat": 34.9500,
+    "lng": 32.9833,
+    "district": "Limassol",
+    "population": 1500,
+    "description": "The largest village in the area, known for its extensive apple orchards. The village hosts an annual apple festival and is a center for agricultural activities in the mountains.",
+    "attractions": ["Apple Orchards", "Apple Festival", "Agricultural Center", "Largest Mountain Village"],
+    "nearestHub": "Agros",
+    "hubDistanceKm": 8,
+    "taxiContacts": [
+      {"name": "Agros Mountain Cars", "phone": "+357 99 678 901"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "chandria",
+    "nameEn": "Chandria",
+    "nameEl": "Χανδριά",
+    "lat": 34.9333,
+    "lng": 32.8667,
+    "district": "Nicosia",
+    "population": 50,
+    "description": "The highest village in Cyprus, offering spectacular panoramic views. The village is small and peaceful, perfect for those seeking tranquility and mountain vistas.",
+    "attractions": ["Highest Village in Cyprus", "Panoramic Views", "Mountain Vistas", "Tranquil Setting"],
+    "nearestHub": "Kakopetria",
+    "hubDistanceKm": 15,
+    "taxiContacts": [
+      {"name": "Kakopetria Cars", "phone": "+357 99 234 567"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "galata",
+    "nameEn": "Galata",
+    "nameEl": "Γαλάτα",
+    "lat": 34.9833,
+    "lng": 32.9000,
+    "district": "Nicosia",
+    "population": 300,
+    "description": "Famous for its painted Byzantine churches with beautiful frescoes. The village has several historic churches that are important examples of Cypriot religious art.",
+    "attractions": ["Painted Byzantine Churches", "Historic Frescoes", "Religious Art", "Historic Churches"],
+    "nearestHub": null,
+    "hubDistanceKm": null,
+    "taxiContacts": [
+      {"name": "Kakopetria Cars", "phone": "+357 99 234 567"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "tochni",
+    "nameEn": "Tochni",
+    "nameEl": "Τόχνη",
+    "lat": 34.7667,
+    "lng": 33.3333,
+    "district": "Larnaca",
+    "population": 350,
+    "description": "An agrotourism pioneer village that has successfully combined traditional architecture with modern tourism. The village offers authentic experiences and traditional accommodations.",
+    "attractions": ["Agrotourism Pioneer", "Traditional Accommodations", "Authentic Experiences", "Traditional Architecture"],
+    "nearestHub": "Larnaca",
+    "hubDistanceKm": 35,
+    "taxiContacts": [
+      {"name": "Lefkara Taxi Service", "phone": "+357 99 567 890"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "choirokoitia",
+    "nameEn": "Choirokoitia",
+    "nameEl": "Χοιροκοιτία",
+    "lat": 34.7961,
+    "lng": 33.3439,
+    "district": "Larnaca",
+    "population": 600,
+    "description": "Home to a UNESCO World Heritage Neolithic settlement, one of the most important prehistoric sites in the eastern Mediterranean. The archaeological site offers insights into early human settlement.",
+    "attractions": ["UNESCO Neolithic Settlement", "Archaeological Site", "Prehistoric Site", "Early Human Settlement"],
+    "nearestHub": null,
+    "hubDistanceKm": null,
+    "taxiContacts": [
+      {"name": "Lefkara Taxi Service", "phone": "+357 99 567 890"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "kalavasos",
+    "nameEn": "Kalavasos",
+    "nameEl": "Καλαβασός",
+    "lat": 34.7667,
+    "lng": 33.3000,
+    "district": "Larnaca",
+    "population": 700,
+    "description": "Known for its nearby dam and beautiful nature trails. The village offers excellent opportunities for hiking and enjoying the natural landscape of the region.",
+    "attractions": ["Kalavasos Dam", "Nature Trails", "Hiking Opportunities", "Natural Landscape"],
+    "nearestHub": "Choirokoitia",
+    "hubDistanceKm": 5,
+    "taxiContacts": [
+      {"name": "Lefkara Taxi Service", "phone": "+357 99 567 890"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "ora",
+    "nameEn": "Ora",
+    "nameEl": "Ώρα",
+    "lat": 34.9667,
+    "lng": 33.1167,
+    "district": "Nicosia",
+    "population": 80,
+    "description": "A small village with well-preserved traditional architecture. The village offers a peaceful retreat and showcases authentic Cypriot rural building styles.",
+    "attractions": ["Traditional Architecture", "Well-Preserved Buildings", "Peaceful Retreat", "Rural Building Styles"],
+    "nearestHub": "Fikardou",
+    "hubDistanceKm": 4,
+    "taxiContacts": [
+      {"name": "Troodos Mountain Taxi", "phone": "+357 99 123 456"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "dymes",
+    "nameEn": "Dymes",
+    "nameEl": "Δύμες",
+    "lat": 34.9583,
+    "lng": 33.1000,
+    "district": "Nicosia",
+    "population": 30,
+    "description": "A nearly abandoned village with atmospheric stone houses. The village offers a glimpse into the past and the changing patterns of rural life in Cyprus.",
+    "attractions": ["Abandoned Stone Houses", "Atmospheric Setting", "Historic Architecture", "Rural Life History"],
+    "nearestHub": "Fikardou",
+    "hubDistanceKm": 6,
+    "taxiContacts": [
+      {"name": "Troodos Mountain Taxi", "phone": "+357 99 123 456"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "lazanias",
+    "nameEn": "Lazanias",
+    "nameEl": "Λαζανιάς",
+    "lat": 34.9750,
+    "lng": 33.0833,
+    "district": "Nicosia",
+    "population": 15,
+    "description": "A tiny mountain hamlet with minimal population. The village offers complete tranquility and is perfect for those seeking the most remote village experience.",
+    "attractions": ["Mountain Hamlet", "Complete Tranquility", "Remote Experience", "Minimal Population"],
+    "nearestHub": "Fikardou",
+    "hubDistanceKm": 8,
+    "taxiContacts": [
+      {"name": "Troodos Mountain Taxi", "phone": "+357 99 123 456"}
+    ],
+    "tourOperators": []
+  },
+  {
+    "id": "alona",
+    "nameEn": "Alona",
+    "nameEl": "Αλώνα",
+    "lat": 34.9583,
+    "lng": 33.0500,
+    "district": "Nicosia",
+    "population": 50,
+    "description": "A small village known for its proximity to monastery trails and hiking routes. The village serves as a starting point for exploring the surrounding natural and religious sites.",
+    "attractions": ["Monastery Trails", "Hiking Routes", "Natural Sites", "Religious Sites"],
+    "nearestHub": "Kakopetria",
+    "hubDistanceKm": 20,
+    "taxiContacts": [
+      {"name": "Kakopetria Cars", "phone": "+357 99 234 567"}
+    ],
+    "tourOperators": []
+  }
+]
+
